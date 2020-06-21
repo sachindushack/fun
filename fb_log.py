@@ -19,7 +19,7 @@ print ('')
 print ('simple login ')
 print ('')
 
-log_ask = input("are you sure run this script 'y'/'n' <: ")
+log_ask = input("are you want to run this script 'y'/'n' <: ")
 time.sleep(0.3)
 if log_ask == 'y':
 
